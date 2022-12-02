@@ -60,54 +60,54 @@
 					<div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper wow bounceIn" data-wow-delay="0.4s">		
 							<a href="#" class="b-link-stripe b-animate-go  thickbox play-icon popup-with-zoom-anim">
-						     <img src="images/t1.jpg" class="img-responsive" alt=""/></a>
+						     <img src="images/9.jpg" class="img-responsive" alt=""/></a>
 							</div>
 					</div>				
 					<div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper wow bounceIn" data-wow-delay="0.4s">		
 							<a href="#" class="b-link-stripe b-animate-go  thickbox play-icon popup-with-zoom-anim">
-						     <img src="images/t2.jpg" class="img-responsive" alt=""/></a>
+						     <img src="images/2.jpg" class="img-responsive" alt=""/></a>
                              </div>
 					</div>		
 					<div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper wow bounceIn" data-wow-delay="0.4s">		
 							<a href="#" class="b-link-stripe b-animate-go  thickbox play-icon popup-with-zoom-anim">
-						     <img src="images/t3.jpg" class="img-responsive" alt=""/></a>
+						     <img src="images/3.jpg" class="img-responsive" alt=""/></a>
 							
 					</div>
 					</div>				
 					<div class="portfolio icon mix_all" data-cat="icon" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper wow bounceIn" data-wow-delay="0.4s">		
 							<a href="#" class="b-link-stripe b-animate-go  thickbox play-icon popup-with-zoom-anim">
-						     <img src="images/t4.jpg" class="img-responsive" alt=""/></a>
+						     <img src="images/4.jpg" class="img-responsive" alt=""/></a>
 							 
 						</div>
 					</div>	
 					<div class="portfolio card mix_all" data-cat="card" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper wow bounceIn" data-wow-delay="0.4s">		
 							<a href="#" class="b-link-stripe b-animate-go  thickbox play-icon popup-with-zoom-anim">
-						     <img src="images/t5.jpg" class="img-responsive" alt=""/></a>
+						     <img src="images/5.jpg" class="img-responsive" alt=""/></a>
 							 
 						</div>
 					</div>			
 					<div class="portfolio fun mix_all" data-cat="fun" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper wow bounceIn" data-wow-delay="0.4s">		
 							<a href="#" class="b-link-stripe b-animate-go  thickbox play-icon popup-with-zoom-anim">
-						     <img src="images/t6.jpg" class="img-responsive" alt=""/></a>
+						     <img src="images/6.jpg" class="img-responsive" alt=""/></a>
 							
 						</div>
 			      </div>
 				  <div class="portfolio fun mix_all" data-cat="fun" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper wow bounceIn" data-wow-delay="0.4s">		
 							<a href="#" class="b-link-stripe b-animate-go  thickbox play-icon popup-with-zoom-anim">
-							<img src="images/t7.jpg" class="img-responsive" alt=""/></a>
+							<img src="images/7.jpg" class="img-responsive" alt=""/></a>
 							
 						</div>
 			      </div>
 				  <div class="portfolio icon mix_all" data-cat="fun" style="display: inline-block; opacity: 1;">
 						<div class="portfolio-wrapper wow bounceIn" data-wow-delay="0.4s">		
 							<a href="#" class="b-link-stripe b-animate-go  thickbox play-icon popup-with-zoom-anim">
-						     <img src="images/t8.jpg" class="img-responsive" alt=""/></a>
+						     <img src="images/8.jpg" class="img-responsive" alt=""/></a>
 							 
 					   </div>
 			      </div>
